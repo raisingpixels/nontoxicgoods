@@ -20,7 +20,7 @@ NontoxicGoods.com is a curated collection of non-toxic products spanning categor
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/vibecodemama/nontoxicgoods.git
+   git clone https://github.com/raisingpixels/nontoxicgoods.git
    cd nontoxicgoods
    ```
 
